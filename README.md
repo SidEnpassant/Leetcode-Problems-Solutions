@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
