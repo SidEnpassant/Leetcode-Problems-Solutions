@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
