@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
+| [0890-lemonade-change](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0890-lemonade-change) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Counting Sort
