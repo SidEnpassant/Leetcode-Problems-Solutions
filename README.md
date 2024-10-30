@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [2857-total-distance-traveled](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2857-total-distance-traveled) |
 ## Merge Sort
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Bucket Sort
 |  |
