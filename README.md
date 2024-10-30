@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 ## String
