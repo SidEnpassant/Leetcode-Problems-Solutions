@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0147-insertion-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
