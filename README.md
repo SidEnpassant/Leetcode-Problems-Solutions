@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2752-sum-multiples) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
 | [0890-lemonade-change](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
