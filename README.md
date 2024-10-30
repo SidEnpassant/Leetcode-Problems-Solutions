@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
+| [2383-add-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
