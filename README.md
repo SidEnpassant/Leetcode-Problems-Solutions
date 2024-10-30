@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
