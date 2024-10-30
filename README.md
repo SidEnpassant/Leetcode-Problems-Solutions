@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
