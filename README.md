@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
