@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2752-sum-multiples) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1511-count-number-of-teams) |
 ## Two Pointers
 |  |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
