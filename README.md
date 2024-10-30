@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
