@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Counting
 |  |
 | ------- |
