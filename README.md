@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
