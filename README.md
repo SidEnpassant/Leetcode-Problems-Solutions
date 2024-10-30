@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2857-total-distance-traveled](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2857-total-distance-traveled) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
