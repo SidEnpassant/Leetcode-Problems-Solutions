@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0204-count-primes) |
+| [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
 | [2752-sum-multiples](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2752-sum-multiples) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
