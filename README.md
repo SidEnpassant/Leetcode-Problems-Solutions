@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
