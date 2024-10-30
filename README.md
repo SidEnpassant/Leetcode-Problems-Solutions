@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
