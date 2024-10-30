@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2857-total-distance-traveled](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2857-total-distance-traveled) |
 | [3371-harshad-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3371-harshad-number) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0258-add-digits) |
 | [2857-total-distance-traveled](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2857-total-distance-traveled) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
