@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0066-plus-one) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
