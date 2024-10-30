@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2857-total-distance-traveled](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2857-total-distance-traveled) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
