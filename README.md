@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1848-sum-of-unique-elements](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
