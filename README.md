@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Memoization
 |  |
