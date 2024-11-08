@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
