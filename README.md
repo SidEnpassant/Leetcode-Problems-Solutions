@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2383-add-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2383-add-two-integers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
+| [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1511-count-number-of-teams) |
 ## Two Pointers
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Binary Indexed Tree
