@@ -5,7 +5,6 @@ public:
         vector<int> second;
         vector<int> result;
 
-        //sort(nums.begin() , nums.end());
         for(int x : nums){
             if(x >= 0){
                 first.push_back(x);
@@ -13,7 +12,6 @@ public:
                 second.push_back(x);
             }
         }
-       // int n = max(first.size() , second.size());
        for (int i = 0; i < first.size(); ++i){
         if (i < first.size()) {
             result.push_back(first[i]);
