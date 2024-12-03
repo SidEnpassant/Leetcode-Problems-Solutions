@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2102-find-the-middle-index-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2102-find-the-middle-index-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Memoization
 |  |
 | ------- |
