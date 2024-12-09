@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0665-non-decreasing-array) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0890-lemonade-change) |
