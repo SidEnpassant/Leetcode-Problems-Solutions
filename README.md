@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2857-total-distance-traveled](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2857-total-distance-traveled) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Merge Sort
 |  |
 | ------- |
