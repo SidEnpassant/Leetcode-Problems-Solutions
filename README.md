@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
