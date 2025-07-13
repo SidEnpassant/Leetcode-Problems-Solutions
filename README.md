@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
 | [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0125-valid-palindrome) |
