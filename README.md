@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2383-add-two-integers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2491-smallest-even-multiple) |
