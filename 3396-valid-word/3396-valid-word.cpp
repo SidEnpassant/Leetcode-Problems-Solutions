@@ -23,7 +23,7 @@ public:
 
             }
             
-            if(acheKiVowel && acheKiConstant) continue;
+            //if(acheKiVowel && acheKiConstant) continue;
         }
         return(acheKiVowel && acheKiConstant);
     }
