@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3396-valid-word](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
