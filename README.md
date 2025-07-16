@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3519-find-the-number-of-winning-players) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1511-count-number-of-teams) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
