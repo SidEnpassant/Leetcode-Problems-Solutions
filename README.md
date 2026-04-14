@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0031-next-permutation) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0125-valid-palindrome) |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
