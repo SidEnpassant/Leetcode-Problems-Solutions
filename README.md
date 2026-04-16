@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3371-harshad-number) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3516-find-closest-person](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3516-find-closest-person) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/3830-find-closest-person) |
