@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0229-majority-element-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
