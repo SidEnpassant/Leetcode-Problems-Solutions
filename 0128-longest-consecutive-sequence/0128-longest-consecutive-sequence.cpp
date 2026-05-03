@@ -29,29 +29,63 @@
 
 
 // BETTER APPROACH
+// class Solution {
+// public: 
+
+    
+//     int longestConsecutive(vector<int>& nums) {
+//         int longest = 1;
+//         int n = nums.size();
+//         int countCurr = 0;
+//         int lastSmaller = INT_MIN;
+
+//         sort(nums.begin() , nums.end());
+//         if(n == 0) return 0;
+
+//         for(int i = 0 ; i < n ; i++){
+//             if(nums[i] - 1 == lastSmaller){
+//                 countCurr = countCurr + 1;
+//                 lastSmaller = nums[i];
+//             }else if(nums[i] != lastSmaller){
+//                 countCurr = 1;
+//                 lastSmaller = nums[i];
+//             }
+//             longest = max(longest , countCurr);
+//         }
+//         return longest;
+//     }
+// };
+
+
+
+///  BEST 
+
 class Solution {
 public: 
 
     
     int longestConsecutive(vector<int>& nums) {
-        int longest = 1;
-        int n = nums.size();
-        int countCurr = 0;
-        int lastSmaller = INT_MIN;
+       int n = nums.size();
+       if(n == 0) return 0;
+       int longest = 1;
 
-        sort(nums.begin() , nums.end());
-        if(n == 0) return 0;
+       unordered_set<int> st;
 
-        for(int i = 0 ; i < n ; i++){
-            if(nums[i] - 1 == lastSmaller){
-                countCurr = countCurr + 1;
-                lastSmaller = nums[i];
-            }else if(nums[i] != lastSmaller){
-                countCurr = 1;
-                lastSmaller = nums[i];
+       for(int i = 0 ; i < n ; i++){
+        st.insert(nums[i]);
+       }
+
+       for(auto it : st){
+        if(st.find(it - 1) == st.end()){
+            int count = 1;
+            int x = it;
+            while(st.find(x+1) != st.end()){
+                x = x + 1;
+                count = count + 1;
             }
-            longest = max(longest , countCurr);
+            longest = max(longest , count);
         }
-        return longest;
+       }
+       return longest;
     }
 };
