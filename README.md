@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0509-fibonacci-number) |
 | [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
