@@ -6,7 +6,7 @@ public:
         for(auto num : nums){
             string str = to_string(num);
             for(auto stri : str){
-                string s(1 , stri);
+                string s(1 , stri);//creating a string with one occurence of stri
                 //int res = stri - '0'; // converting the character digit to an integer as characters are stored using ASCII values
                 int res = stoi(s);
                 result.push_back(res);
