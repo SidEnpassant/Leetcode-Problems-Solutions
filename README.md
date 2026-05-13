@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
