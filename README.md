@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1137-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -606,5 +611,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
