@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
+| [1446-consecutive-characters](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1446-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3195-separate-black-and-white-balls) |
