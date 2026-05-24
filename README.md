@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1306-jump-game-iii) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -621,4 +624,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1306-jump-game-iii) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
