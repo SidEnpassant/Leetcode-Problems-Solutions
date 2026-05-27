@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
