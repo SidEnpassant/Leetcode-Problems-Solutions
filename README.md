@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0909-stone-game](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/1446-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
