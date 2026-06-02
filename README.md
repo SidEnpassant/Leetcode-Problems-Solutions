@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Array
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Counting Sort
