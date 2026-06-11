@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0400-nth-digit) |
+| [0456-132-pattern](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderSid007/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Interactive
@@ -668,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0039-combination-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SidEnpassant/Leetcode-Problems-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
