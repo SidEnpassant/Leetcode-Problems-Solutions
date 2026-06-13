@@ -1,35 +1,5 @@
 // minimum capacity we should consider 
 
-// class Solution {
-// public:
-//     int func(vector<int>& weights, int cap){
-//         int day = 1 , load = 0;
-//         for(int i = 0 ; i < weights.size() ; i++){
-//             if(load + weights[i] > cap){
-//                 day = day + 1;
-//                 load = weights[i];
-//             }
-//             else{
-//                 load = load + weights[i];
-//             }
-//         }
-//         return day;
-//     }
-//     int shipWithinDays(vector<int>& weights, int days) {
-//         int max = *max_element(weights.begin() , weights.end());
-//         int sum = 0;
-//         for(int i = 0 ; i < weights.size() ; i++){
-//             sum = sum + weights[i];
-//         }
-
-//         for(int cap = max ; cap < sum ; cap++){
-//             int daysReq = func(weights , cap);
-//             if(daysReq <= days) return cap;
-//         }
-//         return 0;
-//     }
-// };
-
 
 //optimized
 class Solution {
